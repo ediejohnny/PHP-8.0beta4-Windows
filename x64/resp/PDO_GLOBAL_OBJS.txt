@@ -1,0 +1,1 @@
+  C:\php8\php-8.0.0beta4\x64\Release_TS\ext\pdo\pdo.obj C:\php8\php-8.0.0beta4\x64\Release_TS\ext\pdo\pdo_dbh.obj C:\php8\php-8.0.0beta4\x64\Release_TS\ext\pdo\pdo_sql_parser.obj C:\php8\php-8.0.0beta4\x64\Release_TS\ext\pdo\pdo_sqlstate.obj C:\php8\php-8.0.0beta4\x64\Release_TS\ext\pdo\pdo_stmt.obj

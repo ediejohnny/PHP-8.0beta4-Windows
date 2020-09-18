@@ -1,0 +1,1 @@
+  C:\php8\php-8.0.0beta4\x64\Release_TS\ext\session\mod_files.obj C:\php8\php-8.0.0beta4\x64\Release_TS\ext\session\mod_mm.obj C:\php8\php-8.0.0beta4\x64\Release_TS\ext\session\mod_user.obj C:\php8\php-8.0.0beta4\x64\Release_TS\ext\session\mod_user_class.obj C:\php8\php-8.0.0beta4\x64\Release_TS\ext\session\session.obj

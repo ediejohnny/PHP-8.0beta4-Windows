@@ -1,0 +1,1 @@
+  C:\php8\php-8.0.0beta4\Release_TS\ext\json\json.obj  C:\php8\php-8.0.0beta4\Release_TS\ext\json\json_encoder.obj C:\php8\php-8.0.0beta4\Release_TS\ext\json\json_parser.tab.obj C:\php8\php-8.0.0beta4\Release_TS\ext\json\json_scanner.obj
