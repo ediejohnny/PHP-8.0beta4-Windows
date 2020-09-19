@@ -1,0 +1,1 @@
+  C:\php8\php-8.0.0beta4\x64\Release_TS\sapi\apache2handler\apache_config.obj C:\php8\php-8.0.0beta4\x64\Release_TS\sapi\apache2handler\mod_php.obj C:\php8\php-8.0.0beta4\x64\Release_TS\sapi\apache2handler\php_functions.obj C:\php8\php-8.0.0beta4\x64\Release_TS\sapi\apache2handler\sapi_apache2.obj

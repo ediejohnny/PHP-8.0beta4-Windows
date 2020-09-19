@@ -1,0 +1,1 @@
+  C:\php8\php-8.0.0beta4\x64\Release_TS\ext\bz2\bz2.obj C:\php8\php-8.0.0beta4\x64\Release_TS\ext\bz2\bz2_filter.obj

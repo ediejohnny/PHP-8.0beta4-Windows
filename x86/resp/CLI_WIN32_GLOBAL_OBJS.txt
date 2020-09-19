@@ -1,0 +1,1 @@
+  C:\php8\php-8.0.0beta4\Release_TS\sapi\cli\cli_win32.obj C:\php8\php-8.0.0beta4\Release_TS\sapi\cli\php_cli_process_title.obj C:\php8\php-8.0.0beta4\Release_TS\sapi\cli\ps_title.obj

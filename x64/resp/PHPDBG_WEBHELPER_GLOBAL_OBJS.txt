@@ -1,0 +1,1 @@
+  C:\php8\php-8.0.0beta4\x64\Release_TS\sapi\phpdbg\phpdbg_rinit_hook.obj C:\php8\php-8.0.0beta4\x64\Release_TS\sapi\phpdbg\phpdbg_webdata_transfer.obj

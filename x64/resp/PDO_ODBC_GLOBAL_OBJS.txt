@@ -1,0 +1,1 @@
+  C:\php8\php-8.0.0beta4\x64\Release_TS\ext\pdo_odbc\odbc_driver.obj C:\php8\php-8.0.0beta4\x64\Release_TS\ext\pdo_odbc\odbc_stmt.obj C:\php8\php-8.0.0beta4\x64\Release_TS\ext\pdo_odbc\pdo_odbc.obj

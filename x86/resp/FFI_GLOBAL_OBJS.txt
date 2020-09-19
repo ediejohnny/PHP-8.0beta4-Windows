@@ -1,0 +1,1 @@
+  C:\php8\php-8.0.0beta4\Release_TS\ext\ffi\ffi.obj C:\php8\php-8.0.0beta4\Release_TS\ext\ffi\ffi_parser.obj

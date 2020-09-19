@@ -1,0 +1,1 @@
+  C:\php8\php-8.0.0beta4\Release_TS\ext\zlib\zlib.obj C:\php8\php-8.0.0beta4\Release_TS\ext\zlib\zlib_filter.obj C:\php8\php-8.0.0beta4\Release_TS\ext\zlib\zlib_fopen_wrapper.obj
