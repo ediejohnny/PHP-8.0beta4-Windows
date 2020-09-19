@@ -1,8 +1,10 @@
 # PHP-8.0beta4-Windows
 PHP 8.0 Beta 4 compiled with Visual Studio C++ 2019 using Windows 10 Education (x64)
 
-Configured options:
---enable-pdo --with-pdo-mysql --with-pdo-pgsql --with-curl --enable-apache2-4handler
+# Configured options:
+--enable-snapshot-build
+
+I used this option because it enables everything it can (all extensions, etc).
 
 # Compile by yourself
 Before start compiling PHP, you need to install Visual Studio C++ 2019 and Windows 10 SDK (look at the Utils folder).
@@ -25,8 +27,9 @@ Step 8: execute the command ".\phpsdk-vs16-x86.bat" or ".\phpsdk-vs16-x64.bat";
 
 Step 9: now you'll be on a different command line. Navigate to the folder where you have PHP source files, I recommend you extract the source to the C:\php8 folder, so probably you have the sources at "C:\php8\php-8.0.0beta4". If you want to use my "Source" folder, put it at the C:\php8 folder and you can navigate to "C:\php8\Source";
 
+NOTE: this new command line will not show what folder you are, just a dollar sign ($), so if you don't know what folder you are, execute the "dir" command.
 
-!NOTE: this new command line will not show what folder you are, so just execute the command "dir" to know you are at the correct path.
+Step 9.1: you are now using the PHP-SDK console and you can execute all of its command, so it's time to update your external libs. It's necessary to build Apache DLL, download missing extensions and update everything to the last version. Execute the command "phpsdk_deps -u".
 
 Step 10: execute the command "buildconf";
 
