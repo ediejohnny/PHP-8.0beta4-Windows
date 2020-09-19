@@ -31,7 +31,7 @@ Before start compiling PHP, you need to install Visual Studio C++ 2019 and Windo
 
 __NOTE__: this new command line will not show what folder you are, just a dollar sign ($), so if you don't know what folder you are, execute the "dir" command.
 
-  * __Step 9.1__: you are now using the PHP-SDK console and you can execute all of its command everywhere, so it's time to update your external libs. It's necessary to build Apache DLL, download missing extensions and update everything to the last version. Execute the command "phpsdk_deps -u".
+  * __Step 9.1__: you are now using the PHP-SDK console and you can execute all of its command everywhere, so it's time to update your external libs. It's necessary to build Apache DLL, download missing extensions and update everything to the last version. Execute the command "phpsdk_deps -u";
 
 * __Step 10__: execute the command "buildconf";
 
