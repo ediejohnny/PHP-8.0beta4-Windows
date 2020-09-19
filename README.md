@@ -29,7 +29,7 @@ Step 9: now you'll be on a different command line. Navigate to the folder where 
 
 NOTE: this new command line will not show what folder you are, just a dollar sign ($), so if you don't know what folder you are, execute the "dir" command.
 
-Step 9.1: you are now using the PHP-SDK console and you can execute all of its command, so it's time to update your external libs. It's necessary to build Apache DLL, download missing extensions and update everything to the last version. Execute the command "phpsdk_deps -u".
+Step 9.1: you are now using the PHP-SDK console and you can execute all of its command everywhere, so it's time to update your external libs. It's necessary to build Apache DLL, download missing extensions and update everything to the last version. Execute the command "phpsdk_deps -u".
 
 Step 10: execute the command "buildconf";
 
